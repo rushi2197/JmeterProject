@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# IntelliJ IDEA user-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/libraries/
+.idea/usage.statistics.xml
+.idea/usage.statistics.state.xml
+.idea/jsLibraryMappings.xml
+.idea/vcs.xml
